@@ -8,11 +8,10 @@ This was my first ever design and assignment here at Noroff. It was a fun learni
 
 SquareEyes is an e-commerce store for fellow movie enthusiasts. Featuring the hottest movies at very competitive prices.
 
-The goal of this assignment was to get introduced to web design and making good designs and implementations of said design.
+## Features
 
-The page has a good responsiveness and works on all devices.
-
-Check out the [Live Demo](https://erisan-noroff.github.io/squareeyes/)
+- Fully responsive design, works on all screen sizes
+- Accessible markup with semantic HTML and ARIA labels
 
 SquareEyes has a revised version available at https://github.com/erisan-noroff/SquareEyes-Reworked/.
 
@@ -34,6 +33,9 @@ git clone git@github.com:erisan-noroff/SquareEyes.git
 ### Running
 
 To run the app, open any of the `.html` files. This is a static HTML and CSS project.
+
+## Live Demo
+[Live Demo](https://erisan-noroff.github.io/squareeyes/)
 
 ## Contributing
 
