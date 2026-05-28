@@ -1,52 +1,45 @@
-# HTML & CSS Course Assignment
+# SquareEyes (Original)
 
-## Goal
-To put into practice everything you’ve learned about HTML and CSS over this course by bringing your design alive.
+This was my first ever design and assignment here at Noroff. It was a fun learning experience and it was exciting to create my first ever design from scratch.
 
-## Brief
+<img width="1060" height="624" alt="image" src="https://github.com/user-attachments/assets/8a6b6d44-fa8b-4472-83fd-fb47fb5d7ed4" />
 
-- You must deliver a properly functioning, responsive website for the assignment brief you chose in Design 1.
+## Description
 
-- The site needs to have every page listed in the site architecture on your chosen brief. Certain functionality requiring JavaScript can be mimicked; for example, a login page could link across from the ‘Sign in’ button.
+SquareEyes is an e-commerce store for fellow movie enthusiasts. Featuring the hottest movies at very competitive prices.
 
-- You must deliver a properly functioning, responsive website for the assignment brief you chose in Design 1. The website should be able to navigate from one page to another from the navigation menu as well as from buttons and/or arrows.
+The goal of this assignment was to get introduced to web design and making good designs and implementations of said design.
 
-- The site needs to have every page listed in the site architecture on your chosen brief. Certain functionality requiring JavaScript can be mimicked; for example, a login page could link across from the ‘Sign in’ button. This assignment should be written in purely HTML and CSS.
+The page has a good responsiveness and works on all devices.
 
-- Ensure that all of your images are compressed to around 200KB.
+Check out the [Live Demo](https://erisan-noroff.github.io/squareeyes/)
 
-- The HTML should be semantic, neatly formatted and valid.
+SquareEyes has a revised version available at https://github.com/erisan-noroff/SquareEyes-Reworked/.
 
-- The CSS should follow the DRY principle and be easy to read.
+## Built With
 
-- The website should be responsive and look good at every screen size with no horizontal scrollbars. Use Flexbox and CSS Grids where appropriate. Please do not use a CSS framework like Bootstrap; we want to see that you can build responsive sites without the help of a framework.
+- HTML
+- CSS
 
-- The site should be WCAG compliant, SEO, performance and accessibility should be taken into account.
+## Getting Started
 
-- Each page should have a unique `<meta name="description">, <title>, and <h1>`.
+### Installing
 
-- You should not use copied code in your submission. All code submitted must be written by yourself. You may use external sources to show you how to achieve specific effects, which should be included in your report.
+1. Clone the repo:
 
-## Process
+```bash
+git clone git@github.com:erisan-noroff/SquareEyes.git
+```
 
-1. Clone the repository to your computer using GitHub Desktop.
-2. Spend some time going through your design files and thinking about which tags and approaches you will need.
-3. Write a basic plan for how to approach this, what will you do first? What will you do last?
-4. Work through your plan to create HTML and CSS files for each page.
-5. Test your website using your developer tools and also test on major browsers and various devices.
-8. Validate your code using the Markup Validation Service
-9. Use the WAVE Web Accessibility Evaluation Tools to test that your site matches best practices for accessibility
-10. Go through the marking criteria and ensure your website meets each criteria.
-11. Deploy your site on Github Pages - remember that you can still make changes after it is deployed.
-12. When your site is ready, post it for Peer Review on Teams or Moodle.
-13. Look at the work of your peers and write a review for them.
-14. Make adjustments based on the feedback you gather.
-15. Delivery in Moodle.
+### Running
 
-## Submission
+To run the app, open any of the `.html` files. This is a static HTML and CSS project.
 
-You need to submit the following:
+## Contributing
 
-1. A link to your GitHub repository. Your last commit must be before your deadline.
-2. A link to your website, live on GitHub Pages.
-3. A report using the [this](https://noroff.sharepoint.com/:w:/r/sites/FED1-August2023Full-time2/_layouts/15/Doc.aspx?sourcedoc=%7B1A563EDD-CF1A-4F1B-ABC2-DCAF79AB1344%7D&file=HTML%20_%20CSS%20CA%20Report.docx&action=default&mobileredirect=true&wdOrigin=TEAMS-ASSIGN-WEB.ASSIGN-STUD-VIEW.STUD) template.
+Contributions are appreciated. Please open a Pull Request towards _master_.
+I will provide feedback to your Pull Request before potentially merging it.
+
+## Contact
+
+Please reach out to me here on GitHub.
